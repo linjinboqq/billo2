@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring-boot-07-tomcat:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d5dd619-1c8d-4dc4-8882-f91402679ecb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-01-init-02/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-02-config/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-02-config02/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-03-logging/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-04-web/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-05-bill/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-08-serverlet/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-07-tomcat/target/" />
+    <ignored path="$PROJECT_DIR$/../sping-boot-09-tom/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-08-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-08-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-09-data-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-10-bill/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-11-bill/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-11-task/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-12-mail/target/" />
+    <ignored path="$PROJECT_DIR$/../spring-boot-13-cache/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/mapper/ProviderMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/SpringBootBillApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/config/myconfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/SpringBoot13CacheApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-08-jdbc/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-12-mail/src/main/java/com/mengxuegu/springboot/SpringBoot12MailApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>log4j</find>
+      <find>system</find>
+      <find>webco</find>
+      <find>my</find>
+      <find>myba</find>
+      <find>梦</find>
+      <find>出生</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\SpringBootproject\spring-boot-02-config\src\main\resources</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../spring-boot-06-serverlet/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-06-serverlet/src/main/java/com/mengxuegu/springboot06/SpringBoot06ServerletApplication.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-08-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/mapper/billmapper.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-11-bill/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/mapper/ProviderMapper.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/controller/Providercontroller.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/test/java/com/mengxuegu/springbootbill/SpringBootBillApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/entities/Bill.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/main/login.html" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/bill/list.html" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/bill/view.html" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/mybatis/mapper/providermapper.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/entities/User.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/user/update.html" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/user/add.html" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/user/view.html" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/user/list.html" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/mybatis/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/controller/BillController.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/entities/BillProvider.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/mybatis/mapper/billmapper.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/controller/logincontroller.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/main/index.html" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/main/public.html" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/main/password.html" />
+        <option value="$USER_HOME$/Downloads/dfygre.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/test/java/com/mengxuegu/springbootbill/dfhgre.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/test/java/com/mengxuegu/springbootbill/dfygre.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/SpringBootBillApplication.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/interceptor/Logininterceptor.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-11-task/src/main/java/com/mengxuegu/springboot/controller/ascontroller.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-11-task/src/main/java/com/mengxuegu/springboot/service/AsyncService.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-11-task/src/main/java/com/mengxuegu/springboot/service/scheservice.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-11-task/src/main/java/com/mengxuegu/springboot/SpringBoot11TaskApplication.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-12-mail/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../spring-boot-12-mail/src/test/java/com/mengxuegu/springboot/SpringBoot12MailApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/mapper/usermapper.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-13-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-12-mail/src/main/java/com/mengxuegu/springboot/SpringBoot12MailApplication.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-13-cache/src/test/java/com/mengxuegu/springboot/SpringBoot13CacheApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/entities/Provider.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/entities/Bill.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/entities/User.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-13-cache/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../spring-boot-13-cache/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\24353\.m2\repository" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="48" />
+    <option name="width" value="1815" />
+    <option name="height" value="1041" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573822550228" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SpringBootproject\spring-boot-08-mybatis\src\main\resources\mybatis\mapper" />
+      <recent name="D:\SpringBootproject\spring-boot-08-mybatis\src\main\resources\mybatis" />
+      <recent name="D:\SpringBootproject\spring-boot-05-bill\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mengxuegu.springboot08" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mengxuegu.springbootbill.controller" />
+      <recent name="com.mengxuegu.springbootbill.mapper" />
+      <recent name="com.mengxuegu.springboot.controller" />
+      <recent name="com.mengxuegu.springboot.config" />
+      <recent name="com.mengxuegu.springboot04web.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SpringBootproject\spring-boot-13-cache\src\main\resources" />
+      <recent name="D:\SpringBootproject\spring-boot-13-cache\src\main\java\com\mengxuegu\springboot" />
+      <recent name="D:\SpringBootproject\spring-boot-10-bill\src\main\resources\templates\main" />
+      <recent name="D:\SpringBootproject\spring-boot-10-bill\src\main\resources\templates\user" />
+      <recent name="D:\SpringBootproject\spring-boot-10-bill\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringBootBillApplication">
+    <configuration name="SpringBootBillApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mengxuegu.springbootbill.SpringBootBillApplication" />
+      <module name="spring-boot-10-bill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mengxuegu.springbootbill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12MailApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-12-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mengxuegu.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mengxuegu.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.mengxuegu.springboot.SpringBoot12MailApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12MailApplicationTests.fuzamail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-12-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mengxuegu.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mengxuegu.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.mengxuegu.springboot.SpringBoot12MailApplicationTests" />
+      <option name="METHOD_NAME" value="fuzamail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot13CacheApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-13-cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mengxuegu.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mengxuegu.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.mengxuegu.springboot.SpringBoot13CacheApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-01-hello" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot.HelloMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpingBoot09TomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sping-boot-09-tom" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxg.spingboot09tom.SpingBoot09TomApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot01Init02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-01-init-02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot01init02.SpringBoot01Init02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02Config02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot02config02.SpringBoot02Config02Application" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=dev" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../spring-boot-02-config02" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot02config.SpringBoot02ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot03LoggingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-03-logging" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot03logging.SpringBoot03LoggingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot04WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot04web.SpringBoot04WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot05BillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-05-bill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springbootbill.SpringBoot05BillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot07TomcatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-07-tomcat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot07tomcat.SpringBoot07TomcatApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot08JdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-08-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot.SpringBoot08JdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot08MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-08-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot.SpringBoot08MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot08ServerletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-serverlet" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot08.SpringBoot08ServerletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot09DataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-09-data-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot.SpringBoot09DataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot11TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-11-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot.SpringBoot11TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12MailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-12-mail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot.SpringBoot12MailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot13CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-13-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springboot.SpringBoot13CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootBillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-10-bill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mengxuegu.springbootbill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mengxuegu.springbootbill.SpringBootBillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomacatna" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.1" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="spring-boot-07-tomcat:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-boot-01-hello" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55533" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring-boot-07-tomcat:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringBootBillApplication" />
+      <item itemvalue="JUnit.SpringBoot12MailApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.SpringBoot12MailApplicationTests.fuzamail" />
+      <item itemvalue="JUnit.SpringBoot13CacheApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.SpringBoot01Init02Application" />
+      <item itemvalue="Spring Boot.SpringBoot02Config02Application" />
+      <item itemvalue="Spring Boot.SpringBoot02ConfigApplication" />
+      <item itemvalue="Spring Boot.SpringBoot03LoggingApplication" />
+      <item itemvalue="Spring Boot.SpringBoot04WebApplication" />
+      <item itemvalue="Spring Boot.SpringBoot05BillApplication" />
+      <item itemvalue="Spring Boot.SpringBoot08ServerletApplication" />
+      <item itemvalue="Spring Boot.SpringBoot07TomcatApplication" />
+      <item itemvalue="Spring Boot.SpingBoot09TomApplication" />
+      <item itemvalue="Spring Boot.SpringBoot08JdbcApplication" />
+      <item itemvalue="Spring Boot.SpringBoot08MybatisApplication" />
+      <item itemvalue="Spring Boot.SpringBoot09DataJpaApplication" />
+      <item itemvalue="Spring Boot.HelloMainApplication" />
+      <item itemvalue="Spring Boot.SpringBoot11TaskApplication" />
+      <item itemvalue="Spring Boot.SpringBoot12MailApplication" />
+      <item itemvalue="Spring Boot.SpringBoot13CacheApplication" />
+      <item itemvalue="Spring Boot.SpringBootBillApplication" />
+      <item itemvalue="Tomcat Server.tomacatna" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootBillApplication" />
+        <item itemvalue="Spring Boot.SpringBootBillApplication" />
+        <item itemvalue="JUnit.SpringBoot13CacheApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringBoot12MailApplicationTests.fuzamail" />
+        <item itemvalue="JUnit.SpringBoot12MailApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootHealthEndpointTabSettings">
+    <option name="healthCheckDelay" value="10000" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5dd619-1c8d-4dc4-8882-f91402679ecb" name="Default Changelist" comment="" />
+      <created>1558273881769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558273881769</updated>
+      <workItem from="1558273883047" duration="7490000" />
+      <workItem from="1558356521525" duration="11913000" />
+      <workItem from="1558406092222" duration="15327000" />
+      <workItem from="1558450169868" duration="1734000" />
+      <workItem from="1558451911662" duration="2591000" />
+      <workItem from="1558482593434" duration="10168000" />
+      <workItem from="1558505491093" duration="7009000" />
+      <workItem from="1558531816029" duration="4046000" />
+      <workItem from="1558592370493" duration="24044000" />
+      <workItem from="1558699418451" duration="597000" />
+      <workItem from="1558750648832" duration="18505000" />
+      <workItem from="1558774997571" duration="12181000" />
+      <workItem from="1558955309272" duration="4902000" />
+      <workItem from="1559134825400" duration="5655000" />
+      <workItem from="1559179684434" duration="11081000" />
+      <workItem from="1559207038601" duration="21462000" />
+      <workItem from="1559289692938" duration="6097000" />
+      <workItem from="1559356079065" duration="9083000" />
+      <workItem from="1559465289456" duration="599000" />
+      <workItem from="1559896813841" duration="63000" />
+      <workItem from="1560001858089" duration="5514000" />
+      <workItem from="1560038510263" duration="14797000" />
+      <workItem from="1560059400568" duration="1541000" />
+      <workItem from="1560075727587" duration="6178000" />
+      <workItem from="1560082452699" duration="11807000" />
+      <workItem from="1560129467125" duration="1018000" />
+      <workItem from="1560393072496" duration="5759000" />
+      <workItem from="1560405912485" duration="1316000" />
+      <workItem from="1560875443608" duration="576000" />
+      <workItem from="1560952546560" duration="1959000" />
+      <workItem from="1563157880274" duration="11891000" />
+      <workItem from="1563259564429" duration="17622000" />
+      <workItem from="1563340700299" duration="137000" />
+      <workItem from="1563423629685" duration="2089000" />
+      <workItem from="1563524202601" duration="15000" />
+      <workItem from="1567821909666" duration="294000" />
+      <workItem from="1567835400670" duration="398000" />
+      <workItem from="1567836801516" duration="181000" />
+      <workItem from="1567837916574" duration="112000" />
+      <workItem from="1567838438828" duration="61000" />
+      <workItem from="1568117212845" duration="346000" />
+      <workItem from="1568429568871" duration="573000" />
+      <workItem from="1568880615846" duration="2737000" />
+      <workItem from="1568898523972" duration="321000" />
+      <workItem from="1569138337002" duration="168000" />
+      <workItem from="1573821924973" duration="520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringBoot12MailApplicationTests_fuzamail - 2019.07.16 at 17h 58m 27s.xml">
+      <configuration name="SpringBoot12MailApplicationTests.fuzamail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot12MailApplicationTests_fuzamail - 2019.07.16 at 18h 01m 57s.xml">
+      <configuration name="SpringBoot12MailApplicationTests.fuzamail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot13CacheApplicationTests_contextLoads - 2019.07.16 at 20h 54m 54s.xml">
+      <configuration name="SpringBoot13CacheApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot13CacheApplicationTests_contextLoads - 2019.07.16 at 21h 00m 30s.xml">
+      <configuration name="SpringBoot13CacheApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot13CacheApplicationTests_contextLoads - 2019.07.16 at 21h 06m 14s.xml">
+      <configuration name="SpringBoot13CacheApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot13CacheApplicationTests_contextLoads - 2019.07.16 at 21h 10m 47s.xml">
+      <configuration name="SpringBoot13CacheApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot13CacheApplicationTests_contextLoads - 2019.07.16 at 21h 14m 00s.xml">
+      <configuration name="SpringBoot13CacheApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot13CacheApplicationTests_contextLoads - 2019.07.16 at 21h 27m 51s.xml">
+      <configuration name="SpringBoot13CacheApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot13CacheApplicationTests_contextLoads - 2019.07.16 at 21h 28m 40s.xml">
+      <configuration name="SpringBoot13CacheApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot13CacheApplicationTests_contextLoads - 2019.07.16 at 21h 28m 56s.xml">
+      <configuration name="SpringBoot13CacheApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="262477000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40824574" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" weight="0.41111112" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6640986" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49798927" weight="0.12871288" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49865952" visible="true" weight="0.7685185" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033512" side_tool="true" weight="0.47241867" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32615894" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.1328125" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.0844504" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37198392" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978479" weight="0.14710042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6640986" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.3281471" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021521" side_tool="true" weight="0.28967643" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32819724" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.20509383" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.0844504" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../spring-boot-08-jdbc/src/test/java/com/mengxuegu/springboot/SpringBoot08JdbcApplicationTests.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/templates/main/password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="68" selection-start-line="54" selection-start-column="68" selection-end-line="54" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/test/java/com/mengxuegu/springbootbill/dfhgre.java" />
+    <entry file="file://$USER_HOME$/Downloads/dfygre.java" />
+    <entry file="file://$USER_HOME$/Downloads/mm.java" />
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/test/java/com/mengxuegu/springbootbill/dfygre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-11-task/src/main/java/com/mengxuegu/springboot/controller/ascontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-11-task/src/main/java/com/mengxuegu/springboot/service/AsyncService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar!/org/springframework/scheduling/annotation/Scheduled.class" />
+    <entry file="file://$PROJECT_DIR$/../spring-boot-11-task/src/main/java/com/mengxuegu/springboot/service/scheservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-11-task/src/main/java/com/mengxuegu/springboot/SpringBoot11TaskApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-12-mail/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-12-mail/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-12-mail/src/test/java/com/mengxuegu/springboot/SpringBoot12MailApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-08-mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-08-mybatis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/test/java/com/mengxuegu/springboot/SpringBoot13CacheApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/entities/Bill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/entities/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/entities/BillProvider.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/entities/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/mapper/usermapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class" />
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/component/mylocalresolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/controller/BillController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-889">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/controller/logincontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/controller/Providercontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="110" column="61" selection-start-line="110" selection-start-column="61" selection-end-line="110" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/dao/BillDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/dao/ProviderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/entities/Bill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-601">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/entities/BillProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/entities/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/entities/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/interceptor/Logininterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/mapper/billmapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/mapper/ProviderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/config/myconfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-13-cache/src/main/java/com/mengxuegu/springboot/SpringBoot13CacheApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-08-jdbc/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-12-mail/src/main/java/com/mengxuegu/springboot/SpringBoot12MailApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-10-bill/src/main/java/com/mengxuegu/springbootbill/SpringBootBillApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-boot-07-tomcat:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-boot-11-bill</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
